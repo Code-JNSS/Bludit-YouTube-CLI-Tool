@@ -1,1 +1,0 @@
-g++ BP_YT_light.cpp -o BP_Youtube.exe
