@@ -9,4 +9,6 @@ Code is under MIT Licence.
 Thanks to IMFL (github.com/aafulei) for his console color library from :
 https://github.com/imfl/color-console
 
-You can contact me about this project : bludit@jnss.eu
+Some lines of code have been taken from the web - tell me if it's yours.
+
+You can contact me about this project : bludit@jnss.eu.
