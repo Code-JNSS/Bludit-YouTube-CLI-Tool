@@ -8,3 +8,4 @@ https://github.com/imfl/color-console
 
 Some lines of code have been taken from the web - tell me if it's yours.
 
+To send a message about this tool : bludit@jnss.eu
